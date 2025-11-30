@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/Authentication.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/FXMLDocumentController.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/MainController.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/fxml/MainFXML.fxml</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/services/UserService.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/fxml/FXMLDocument.fxml</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/models/User.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/fxml/AssignmentFXML.fxml</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/AssignmentFXMLController.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/AddAssignmentController.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/css/styles.css</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/Assignment.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/fxml/EditAssignment.fxml</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/EditAssignmentController.java</file>
+            <file>file:/Users/engelmariano/NetBeansProjects/AssingmentTracker/src/assignmenttracker/controllers/AssignmentRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
